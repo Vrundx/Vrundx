@@ -46,6 +46,57 @@
 - 💼 LinkedIn: https://linkedin.com/in/your-profile
 - 🌐 Portfolio: https://your-portfolio.com
 
+---<!-- Profile Banner -->
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1rQyEyqWuzzNZDzvu8zpy_CqYZmPCUJBK" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Vrundx</h1>
+<h3 align="center">🚀 Developer | Tech Explorer | Problem Solver</h3>
+
 ---
+
+## 💫 About Me
+- 🔭 Currently working on exciting projects
+- 🌱 Always learning new technologies
+- 💡 Passionate about building impactful solutions
+- 🎯 Focused on growth & consistency
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+C++ • JavaScript • Python  
+
+### 🌐 Web Development
+HTML • CSS • React • Node.js  
+
+### 🗄️ Databases
+MySQL • MongoDB  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vrundx&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrundx&theme=tokyonight" />
+</p>
+
+---
+
+## 🌎 Connect With Me
+
+📫 Email: your-email@example.com  
+💼 LinkedIn: https://linkedin.com/in/your-profile  
+🌐 Portfolio: https://your-portfolio.com  
+
+---
+
+⭐️ From Vrundx
 
 ⭐️ From [Vrundx](https://github.com/Vrundx)
